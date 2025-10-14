@@ -1,0 +1,9 @@
+2025-10-14 21:14:37,466 - INFO - 🚀 Script started: Merging multiple CSVs
+2025-10-14 21:14:37,468 - INFO - Reading file: C:\Users\gowri\Documents\Projects\Day_3\mini\data\sales_feb.csv
+2025-10-14 21:14:37,472 - INFO - ✅ Successfully read file: C:\Users\gowri\Documents\Projects\Day_3\mini\data\sales_feb.csv (rows: 3)
+2025-10-14 21:14:37,476 - INFO - Reading file: C:\Users\gowri\Documents\Projects\Day_3\mini\data\sales_jan.csv
+2025-10-14 21:14:37,478 - INFO - ✅ Successfully read file: C:\Users\gowri\Documents\Projects\Day_3\mini\data\sales_jan.csv (rows: 3)
+2025-10-14 21:14:37,482 - INFO - Reading file: C:\Users\gowri\Documents\Projects\Day_3\mini\data\sales_mar.csv
+2025-10-14 21:14:37,485 - INFO - ✅ Successfully read file: C:\Users\gowri\Documents\Projects\Day_3\mini\data\sales_mar.csv (rows: 3)
+2025-10-14 21:14:37,490 - INFO - ✅ Final merged file saved as C:\Users\gowri\Documents\Projects\Day_3\mini\merged_sales.csv
+2025-10-14 21:14:37,491 - INFO - 🏁 Script completed successfully

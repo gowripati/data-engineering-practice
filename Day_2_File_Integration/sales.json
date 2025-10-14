@@ -1,0 +1,26 @@
+[
+    {
+        "customer": "Alice",
+        "product": "Pen",
+        "price": 10,
+        "quantity": 5
+    },
+    {
+        "customer": "Bob",
+        "product": "Book",
+        "price": 100,
+        "quantity": 2
+    },
+    {
+        "customer": "Alice",
+        "product": "Notebook",
+        "price": 50,
+        "quantity": 3
+    },
+    {
+        "customer": "Charlie",
+        "product": "Bag",
+        "price": 500,
+        "quantity": 1
+    }
+]

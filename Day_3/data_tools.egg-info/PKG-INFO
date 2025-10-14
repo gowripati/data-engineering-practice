@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: data_tools
+Version: 0.1
+Summary: Custom data engineering utilities package
+Author: Your Name
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
